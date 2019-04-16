@@ -1,8 +1,5 @@
-package exercises
-
 /*
 Challenge: Apply Functional Programming for Simple Data Analysis
-
 We decided to gather data on the age of our users.
 In this challenge, you'll be presented with this partly faulty data
  of user ages which is based on four input files:
@@ -14,6 +11,28 @@ val data = mapOf(
     "users3.csv" to listOf(),
     "users4.csv" to listOf(56, 32, 18, 44)
 )
+
+fun main() {
+    var i=0
+    var vinputs=0
+    var sum=0
+
+    for (number in data.flatMap {it.value})
+    {if (number>=0){
+        vinputs++
+            sum+=number
+        }else i++
+
+    }
+
+    println("Total : ${data.flatMap { it.value }.sumBy { it.div(vinputs) }
+    }")
+    print("Faults in these maps:")
+    for ((key, value) in data) for (broj in value)if (broj<0) println(" $key")
+    println("Find $i faulty.")
+
+}
+
 
 /*
 Apply the functions you learned about as well as other functions from Kotlin's
