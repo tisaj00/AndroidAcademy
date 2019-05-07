@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".ui.MainActivity"
+        >
+
+    <android.support.v7.widget.AppCompatImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/pozadina"
+    />
+    <ImageView
+            android:id="@+id/ivUserPicture"
+            android:layout_width="@dimen/userPictureWidth"
+            android:layout_height="@dimen/userPictureHeight"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:src="@drawable/slika"
+            android:scaleType="centerCrop"
+    />
+
+    <TextView
+            android:id="@+id/tvIme"
+            android:layout_width="@dimen/match_constraint"
+            android:layout_height="@dimen/userNameHeight"
+            app:layout_constraintLeft_toLeftOf="parent"
+
+            app:layout_constraintRight_toLeftOf="@id/ivUserPicture"
+            app:layout_constraintTop_toTopOf="parent"
+            android:hint="@string/StringName"
+            android:textColor="@color/blackText"
+            android:layout_marginLeft="10dp"
+    />
+    <TextView
+            android:id="@+id/tvPrezime"
+            android:layout_width="@dimen/match_constraint"
+            android:layout_height="@dimen/userNameHeight"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/ivUserPicture"
+            app:layout_constraintTop_toBottomOf="@id/tvIme"
+            android:hint="Prezime:"
+            android:textColor="@color/blackText"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+    />
+    <TextView
+            android:id="@+id/tvDatum"
+            android:layout_width="@dimen/match_constraint"
+            android:layout_height="@dimen/userNameHeight"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/ivUserPicture"
+            app:layout_constraintTop_toBottomOf="@id/tvPrezime"
+            android:hint="Datum rođenja:"
+            android:textColor="@color/blackText"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+    />
+    <TextView
+            android:id="@+id/tvMobitel"
+            android:layout_width="@dimen/match_constraint"
+            android:layout_height="@dimen/userNameHeight"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toLeftOf="@id/ivUserPicture"
+            app:layout_constraintTop_toBottomOf="@id/tvDatum"
+            android:layout_marginTop="15dp"
+            android:hint="Broj mobitela:"
+            android:textColor="@color/blackText"
+            android:layout_marginLeft="10dp"
+
+    />
+    <TextView
+            android:id="@+id/tvEmail"
+            android:layout_width="@dimen/match_constraint"
+            android:layout_height="@dimen/userNameHeight"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvMobitel"
+            android:layout_marginTop="15dp"
+            android:hint="Email:"
+            android:textColor="@color/blackText"
+            android:layout_marginLeft="10dp"
+
+    />
+    <TextView
+            android:id="@+id/tvAdresa"
+            android:layout_width="@dimen/match_constraint"
+            android:layout_height="@dimen/userNameHeight"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvEmail"
+            android:layout_marginTop="15dp"
+            android:hint="Adresa:"
+            android:textColor="@color/blackText"
+            android:layout_marginLeft="10dp"
+    />
+    <TextView
+            android:id="@+id/tvOib"
+            android:layout_width="@dimen/match_constraint"
+            android:layout_height="@dimen/userNameHeight"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvAdresa"
+            android:layout_marginTop="15dp"
+            android:hint="Oib:"
+            android:textColor="@color/blackText"
+            android:layout_marginLeft="10dp"
+    />
+    <ImageView
+            android:id="@+id/ivEducationThumbnail"
+            android:layout_width="@dimen/thumbnailWidth"
+            android:layout_height="@dimen/thumbnailHeight"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tvOib"
+            android:src="@drawable/ic_education"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+    />
+
+        <ListView
+                android:id="@+id/Lista"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintRight_toRightOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/ivEducationThumbnail"
+                app:layout_constraintBottom_toBottomOf="parent"
+
+        >
+        </ListView>
+
+
+</android.support.constraint.ConstraintLayout>
+
+
+
+
+
+
+
+

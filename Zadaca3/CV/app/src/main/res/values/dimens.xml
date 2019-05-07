@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeOfPadding">10dp</dimen>
+    <dimen name="userPictureWidth">170dp</dimen>
+    <dimen name="userPictureHeight">240dp</dimen>
+    <dimen name="match_constraint">0dp</dimen>
+    <dimen name="userNameHeight">50dp</dimen>
+    <dimen name="thumbnailWidth">50dp</dimen>
+    <dimen name="thumbnailHeight">50dp</dimen>
+
+
+</resources>
