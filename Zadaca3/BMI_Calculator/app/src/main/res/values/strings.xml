@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BMI_Calculator</string>
+    <string name="HintsTextHeight">Upišite svoju visinu u metrima:</string>
+    <string name="hintsTextWeight">Upišite svoju težinu u kilogramima:</string>
+    <string name="resultBMI_NormalRangeLong">Bravo! Ti si u super formi. Samo tako nastavi!</string>
+    <string name="resultBMI_OverweightLong">Predebeo si! Idi u teretanu i to skini!</string>
+    <string name="resultBMI_ObeseLong">Trebao bi početi vježbat i pripaziti na prehranu.</string>
+    <string name="resultBMI_UnderweightLong">Mršav si! Pobrini se da dobiješ na kilaži.</string>
+
+
+
+    <string name="warningForHeight">Ograničenost u visini (0 to 2.5 metra).</string>
+    <string name="warningForWeight">Ograničenost u težini(0 to 350 kila).</string>
+    <string name="btnText">Izračunaj</string>
+</resources>
