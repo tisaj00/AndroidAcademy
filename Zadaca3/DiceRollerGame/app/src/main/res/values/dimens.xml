@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="diceWidth">90dp</dimen>
+    <dimen name="diceHeight">90dp</dimen>
+    <dimen name="sizeOfMargin">60dp</dimen>
+    <dimen name="sizeText">40sp</dimen>
+    <dimen name="tvTextSize">20sp</dimen>
+</resources>

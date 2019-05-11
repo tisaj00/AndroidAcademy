@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DiceRollerGame</string>
+    <string name="tvPonovnoBacanje">Bacaj ponovno</string>
+    <string name="textButton">Roll Dice</string>
+</resources>
