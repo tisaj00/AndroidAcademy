@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Taskie</string>
+    <string name="newTaskHeadingText">New task:</string>
+    <string name="newTaskTitleInputHint">Enter task title</string>
+    <string name="newTaskDescriptionInputHint">Enter task description</string>
+    <string name="lowPriority">Low</string>
+    <string name="mediumPriority">Medium</string>
+    <string name="highPriority">High</string>
+    <string name="saveTaskActionText">Save</string>
+    <string name="emptyFields">Check your inputs</string>
+    <string name="noTaskFound">No such task found</string>
+    <string name="no_data">No data! :(</string>
+    <string name="about_autor">Aplikaciju napravio \n Josip Tisaj</string>
+    <string name="about_app_text">Zadaća 4.\n Prvi navigation item lista taskova \n Drugi navigation item about \n Unutar about screena dodat viewpager gdje je moguće swipeati izmedu podataka o aplikaciji i autoru aplikacije</string>
+    <string name="tasks">Tasks</string>
+    <string name="About">About</string>
+    <string name="sort_by">Sort by priority</string>
+    <string name="clear_all_tasks">Clear all</string>
+    <string name="editTaskHeadingText">Edit task:</string>
+    <string name="login">LOGIN</string>
+    <string name="register">REGISTER</string>
+    <string name="logout">LOGOUT</string>
+    <string name="signOut">SIGN OUT</string>
+    <string name="goToRegister">Not a member? Sign up now.</string>
+    <string name="goTologin">Already registred! Login Me.</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Name</string>
+    <string name="updateButtonText">Edit task</string>
+    <string name="updateTaskHeadingText">Update task:</string>
+    <string name="refreshMenu">Refresh</string>
+</resources>
