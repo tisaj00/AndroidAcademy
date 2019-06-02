@@ -76,6 +76,7 @@ class TasksFragment : BaseFragment(), AddTaskFragmentDialog.TaskAddedListener {
         swipeToRefresh.setOnRefreshListener {
             getAllTasks()
             this.activity?.displayToast("Refreshed Tasks!")
+            swipeToRefresh.isRefreshing=false
         }
     }
 
@@ -111,7 +112,7 @@ class TasksFragment : BaseFragment(), AddTaskFragmentDialog.TaskAddedListener {
         override fun onResponse(call: Call<GetTasksResponse>?, response: Response<GetTasksResponse>) {
             progress.gone()
             noData.gone()
-            swipeToRefresh.isRefreshing = false
+
 
             if (response.isSuccessful) {
                 when (response.code()) {
