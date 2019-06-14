@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abda001a-562c-498e-b644-b2d4ce9fd22b" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/weapons/BaseWeapon.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/game/Start.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+              <folding>
+                <element signature="e#14#240#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/model/Weapons.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entities/Enemies/Bangalore.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entities/Champs/Tank.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entities/Enemies/Lifeline.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entities/Enemies/Caustic.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entities/Champs/Abstract/BaseChamp.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entities/Champs/Support.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <element signature="e#25#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/entities/Champs/Adc.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+              <folding>
+                <element signature="e#25#87#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Entiteti/Abstract/Entity.kt" />
+        <option value="$PROJECT_DIR$/src/Game/Roll.kt" />
+        <option value="$PROJECT_DIR$/src/Weapons/Main/Spell.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Enemies/Mage.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Enemies/Warior.kt" />
+        <option value="$PROJECT_DIR$/src/Weapons/Main/Sword.kt" />
+        <option value="$PROJECT_DIR$/src/Weapons/Main/Bow.kt" />
+        <option value="$PROJECT_DIR$/src/Weapons/Main/Hands.kt" />
+        <option value="$PROJECT_DIR$/src/Levels/FirstLevel.kt" />
+        <option value="$PROJECT_DIR$/src/Levels/SecondLevel.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Enemies/Hunter.kt" />
+        <option value="$PROJECT_DIR$/src/Game/Interaction.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Player.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Enemies/Player.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Enemies/Enemy.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Champs/Bangalore.kt" />
+        <option value="$PROJECT_DIR$/src/Weapons/Weapon.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Champs/Support.kt" />
+        <option value="$PROJECT_DIR$/src/Weapons/BaseWeapon.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Champs/BaseChamp.kt" />
+        <option value="$PROJECT_DIR$/src/Start.kt" />
+        <option value="$PROJECT_DIR$/src/Weapons/Enums.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Enemies/Bangalore.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Enemies/Caustic.kt" />
+        <option value="$PROJECT_DIR$/src/Entiteti/Enemies/Lifeline.kt" />
+        <option value="$PROJECT_DIR$/src/entiteti/Enemies/Interface/Enemy.kt" />
+        <option value="$PROJECT_DIR$/src/entiteti/Enemies/Bangalore.kt" />
+        <option value="$PROJECT_DIR$/src/entiteti/Enemies/Lifeline.kt" />
+        <option value="$PROJECT_DIR$/src/entiteti/Enemies/Caustic.kt" />
+        <option value="$PROJECT_DIR$/src/weapons/Enums.kt" />
+        <option value="$PROJECT_DIR$/src/model/Weapon.kt" />
+        <option value="$PROJECT_DIR$/src/entiteti/Champs/Abstract/BaseChamp.kt" />
+        <option value="$PROJECT_DIR$/src/entiteti/Champs/Adc.kt" />
+        <option value="$PROJECT_DIR$/src/weapons/SwordShiled.kt" />
+        <option value="$PROJECT_DIR$/src/persistance/Weapons.kt" />
+        <option value="$PROJECT_DIR$/src/persistance/Enums.kt" />
+        <option value="$PROJECT_DIR$/src/model/Enums.kt" />
+        <option value="$PROJECT_DIR$/src/entities/Enemies/Caustic.kt" />
+        <option value="$PROJECT_DIR$/src/entities/Enemies/Interface/Enemy.kt" />
+        <option value="$PROJECT_DIR$/src/weapons/BaseWeapon.kt" />
+        <option value="$PROJECT_DIR$/src/entities/Enemies/Bangalore.kt" />
+        <option value="$PROJECT_DIR$/src/entities/Enemies/Lifeline.kt" />
+        <option value="$PROJECT_DIR$/src/entities/Champs/Tank.kt" />
+        <option value="$PROJECT_DIR$/src/entities/Champs/Adc.kt" />
+        <option value="$PROJECT_DIR$/src/entities/Champs/Support.kt" />
+        <option value="$PROJECT_DIR$/src/entities/Champs/Abstract/BaseChamp.kt" />
+        <option value="$PROJECT_DIR$/src/weapons/HealDrone.kt" />
+        <option value="$PROJECT_DIR$/src/weapons/Rifle.kt" />
+        <option value="$PROJECT_DIR$/src/weapons/Shield.kt" />
+        <option value="$PROJECT_DIR$/src/model/Weapons.kt" />
+        <option value="$PROJECT_DIR$/src/game/Start.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="The Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+              <item name="Champs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+              <item name="Champs" type="462c0819:PsiDirectoryNode" />
+              <item name="Abstract" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+              <item name="Enemies" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="game" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="The Game" type="b2602c69:ProjectViewProjectNode" />
+              <item name="The Game" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="weapons" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/AkademijaDrugaZadaca-master/AkademijaDrugaZadaca-master" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Josip\IdeaProjects\The Game\src\game" />
+      <recent name="C:\Users\Josip\IdeaProjects\The Game\src\Weapons\Abstract\Abstract" />
+      <recent name="C:\Users\Josip\IdeaProjects\The Game\src\Weapons\Abstract" />
+      <recent name="C:\Users\Josip\IdeaProjects\The Game\src\Entiteti\Enemies\Abstract" />
+    </key>
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="model" />
+      <recent name="persistance" />
+      <recent name="weapons" />
+      <recent name="entiteti.Enemies.Interface" />
+      <recent name="entiteti.Champs.Abstract" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="Game" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="game.StartKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="The Game" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="game.StartKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.game.StartKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abda001a-562c-498e-b644-b2d4ce9fd22b" name="Default Changelist" comment="" />
+      <created>1556002659560</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556002659560</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14978679" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.26435536" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.49946696" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.33044422" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="8" side_tool="true" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Players.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Game/EnemyInteractionImpl.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Weapons/Abstract/MainWeapon.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Weapons/Main/Spell.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Entiteti/Enemies/Mage.kt" />
+    <entry file="file://$USER_HOME$/Desktop/AkademijaDrugaZadaca-master/AkademijaDrugaZadaca-master/src/enemies/MotherShahraz.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Weapons/Main/Sword.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Weapons/Main/Hands.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Weapons/Main/Bow.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Game/Roll.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Levels/SecondLevel.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Entiteti/Abstract/Entity.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Levels/FirstLevel.kt" />
+    <entry file="file://$PROJECT_DIR$/src/Game/Interaction.kt" />
+    <entry file="file://$PROJECT_DIR$/The Game.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Weapon.kt" />
+    <entry file="file://$PROJECT_DIR$/src/model/Enums.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weapons/Rifle.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weapons/Shield.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weapons/HealDrone.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/Enemies/Interface/Enemy.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/Enemies/Lifeline.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/Champs/Support.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#25#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/Enemies/Bangalore.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/Enemies/Caustic.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/Champs/Tank.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/weapons/BaseWeapon.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/model/Weapons.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/game/Start.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+          <folding>
+            <element signature="e#14#240#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/Champs/Abstract/BaseChamp.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entities/Champs/Adc.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
+          <folding>
+            <element signature="e#25#87#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
